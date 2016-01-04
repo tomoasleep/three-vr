@@ -5,7 +5,7 @@ var StereoPass = require('./StereoPass');
 var ShaderPass = require('./ShaderPass');
 var BarrelDistortsionShader = require('./shaders/BarrelDistortionShader');
 
-var DeviceOrientationControls, orbitControls, composer;
+var deviceOrientationControls, orbitControls, composer;
 
 var threevr = {
 
